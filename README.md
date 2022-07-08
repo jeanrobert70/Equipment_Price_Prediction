@@ -1,4 +1,4 @@
-# Equipment_Price_Prediction
+# Equipment Price Prediction
 
 The objective of this project is to predict the auction sale price for a piece of heavy equipment to create a "blue book" for bulldozers. It was part of a kaggle compeition that was launced under the Kaggle Startup Program. The data is sourced from auction result postings and includes information on usage and equipment configurations.  It can be downloaded from kaggle here: https://www.kaggle.com/competitions/bluebook-for-bulldozers/data.
 
